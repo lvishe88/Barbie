@@ -1,0 +1,65 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+body{background:rgba(160,255, 255 ,1.00);}
+
+h1{color:rgba(236,29,24,1.00);
+   font-size: 60px;
+	font-family: "lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serifs";
+	font-style: italic;
+	font-weight: bold;
+
+}
+
+a:link{color:rgba(10,200,200,1.00);
+   text-decoration: none;
+}
+a:visited{color:rgba(10,200,200,1.00);}
+a:hover{color:rgba(149,0,250,1.00);}
+a:active{color:rgba(3,229,248,1.00);}
+
+
+
+
+#logo_container{
+	width: 70%;
+	background: rgba(255,210,255,1.00);
+	color:rgba(12,21,241,1.00);
+	margin: 50px auto;
+	padding: 50px;
+	
+}
+
+#logo_container img{
+	width: 100%
+	
+}
+
+
+#main_menu{
+	width:70%;
+	height: 45px;
+	background: rgba(255,210,255,1.00);
+	color: rgba(248,3,7,1.00);
+	margin: 15px auto;
+	padding:10px;
+	font-size: 35px;
+	text-align: center;
+}
+
+
+#page_content{width:1150px;
+	min-height:450px;
+	background: rgba(2,251,63,1.00);
+	color: rgba(247,115,1,1.00);
+	margin:15px auto;
+	padding:25px;
+ 
+
+
+}
+
+
+
+
